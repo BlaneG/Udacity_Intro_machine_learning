@@ -1,0 +1,7 @@
+References
+
+Ben Hammer (2014).  Machine learning gremlins.  https://www.youtube.com/watch?v=tleeC-KlsKA
+
+Jason Brownlee (2014).  An introduction to feature selection.  http://machinelearningmastery.com/an-introduction-to-feature-selection/
+
+scikit-learn http://scikit-learn.org/
