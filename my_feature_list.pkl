@@ -1,12 +1,12 @@
 (lp0
 S'poi'
 p1
-aS'exercised_stock_options'
+aS'bonus'
 p2
-aS'total_payments'
+aS'exercised_stock_options'
 p3
-aS'total_stock_value'
+aS'loan_advances'
 p4
-aS'non_salary'
+aS'total_stock_value'
 p5
 a.
